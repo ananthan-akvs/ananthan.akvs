@@ -1,6 +1,8 @@
 {
   "groups": [
-    ["example-1.jpg", "example-2.jpg", {"file": "example-3.jpg", "caption": "a caption, if you want one"}],
-    ["example-4.jpg", "example-5.jpg"]
+    ["taigun-01.jpg"],
+    ["kanyakumari-01.jpg", "kanyakumari-02.jpg", "kanyakumari-03.jpg", "kanyakumari-04.jpg"],
+    ["kolkata-01.jpg", "kolkata-02.jpg", "kolkata-03.jpg", "kolkata-04.jpg", "kolkata-05.jpg", "kolkata-06.jpg", "kolkata-07.jpg", "kolkata-08.jpg", "kolkata-09.jpg", "kolkata-10.jpg", "kolkata-11.jpg", "kolkata-12.jpg", "kolkata-13.jpg", "kolkata-14.jpg", "kolkata-15.jpg", "kolkata-16.jpg", "kolkata-17.jpg"],
+    ["odisha-01.jpg", "odisha-02.jpg", "odisha-03.jpg", "odisha-04.jpg", "odisha-05.jpg", "odisha-06.jpg", "odisha-07.jpg", "odisha-08.jpg"]
   ]
 }
