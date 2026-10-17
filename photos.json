@@ -1,0 +1,6 @@
+{
+  "groups": [
+    ["example-1.jpg", "example-2.jpg", {"file": "example-3.jpg", "caption": "a caption, if you want one"}],
+    ["example-4.jpg", "example-5.jpg"]
+  ]
+}
